@@ -1,7 +1,9 @@
 [![Gem Version](https://badge.fury.io/rb/msdropdown-rails.png)](http://badge.fury.io/rb/msdropdown-rails)
-# Msdropdown::Rails
+# MSDropDown::Rails
 
-TODO: Write a gem description
+This gem integrates the MSDropDown plugin, authored by Marghoob Suleman, into the asset pipeline for Rails.
+
+The source for the original plugin can be found at: https://github.com/marghoobsuleman/ms-Dropdown
 
 ## Installation
 
