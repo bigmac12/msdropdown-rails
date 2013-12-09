@@ -3,7 +3,8 @@
 
 This gem integrates the MSDropDown plugin, authored by Marghoob Suleman, into the asset pipeline for Rails.
 
-The source for the original plugin can be found at: https://github.com/marghoobsuleman/ms-Dropdown
+The source for the original plugin can be found at: 
+	https://github.com/marghoobsuleman/ms-Dropdown
 
 ## Installation
 
