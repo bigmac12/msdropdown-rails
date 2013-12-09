@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[![Gem Version](https://badge.fury.io/rb/msdropdown-rails.png)](http://badge.fury.io/rb/msdropdown-rails)
 # Msdropdown::Rails
 
 TODO: Write a gem description
