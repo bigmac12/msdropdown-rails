@@ -2,12 +2,17 @@
 *.rbc
 .bundle
 .config
+<<<<<<< HEAD
 .yardoc
 Gemfile.lock
 InstalledFiles
 _yardoc
 coverage
 doc/
+=======
+coverage
+InstalledFiles
+>>>>>>> a00ef68447accb7dd184a2a27a2b812de3a1f719
 lib/bundler/man
 pkg
 rdoc
@@ -15,3 +20,11 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+<<<<<<< HEAD
+=======
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> a00ef68447accb7dd184a2a27a2b812de3a1f719
